@@ -6,6 +6,5 @@ description:
   I'm a fellow student at Upgrad
   <br>
 </p>
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-minimal
